@@ -1,0 +1,237 @@
+.paymentInfo_content {
+  width: 686px;
+  margin-left: 80px;
+  margin-top: 20px;
+}
+
+.text_header {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32.74px;
+  color: #605dec;
+  margin-bottom: 10px;
+}
+
+.description {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.55px;
+  color: #7c8db0;
+  margin-bottom: 20px;
+}
+
+.description_span {
+  color: #605dec;
+}
+
+.paymentMethod_content {
+  width: 700px;
+  border: 1px solid #605dec;
+  border-radius: 4px;
+  margin-bottom: 30px;
+}
+
+.creddit_text {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.55px;
+  color: #fafafa;
+}
+
+.activeButton {
+  width: 151px;
+  height: 48px;
+  padding: 12px 20px 12px 20px;
+  border-radius: 4px;
+  background-color: #605dec;
+}
+
+.unactivatedButton {
+  width: 155px;
+  height: 48px;
+  padding: 12px 20px 12px 20px;
+  border-radius: 4px;
+}
+.unactivatedButton2 {
+  width: 145px;
+  height: 48px;
+  padding: 12px 20px 12px 20px;
+  border-radius: 4px;
+}
+
+.unactivatedButton3 {
+  width: 118px;
+  height: 48px;
+  padding: 12px 20px 12px 20px;
+  border-radius: 4px;
+}
+
+.paymentMethod_text {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.55px;
+  color: #605dec;
+}
+
+.passenger_text {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 24.55px;
+  color: #6e7491;
+  margin-bottom: 20px;
+}
+
+.checkBox_text {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21.82px;
+  color: #6e7491;
+}
+
+.input_field {
+  width: 480px;
+  height: 48px;
+  padding: 8px 12px 8px 12px;
+  gap: 8px;
+  border-radius: 4px;
+  border: 1px solid #a1b0cc;
+  margin-bottom: 20px;
+}
+
+.input_field_date {
+  width: 240px;
+  height: 48px;
+  padding: 8px 12px 8px 12px;
+  gap: 8px;
+  border-radius: 4px;
+  border: 1px solid #a1b0cc;
+}
+
+.text_date {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16.37px;
+  color: #7c8db0;
+}
+
+.input_field_CCV {
+  width: 220px;
+  height: 48px;
+  border: 1px solid #a1b0cc;
+  display: flex;
+  border-radius: 4px;
+}
+
+.input_field_none {
+  border: none;
+  outline: none;
+  margin-left: 5px;
+}
+
+.divider {
+  width: 215.5px;
+  height: 1px;
+  background-color: #cbd4e6;
+}
+
+.text_divider {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.55px;
+  color: #7c8db0;
+}
+
+.social_button {
+  display: flex;
+  align-items: center;
+  gap: 125px;
+  border: 1px solid #605dec;
+  width: 488px;
+  padding: 12px 20px 12px 20px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+.social_text {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.55px;
+  text-align: center;
+  color: #605dec;
+}
+
+.backAndSeatButton {
+  width: 191px;
+  padding: 12px 20px 12px 20px;
+  border-radius: 4px;
+  border: 1px solid #605dec;
+  color: #605dec;
+}
+
+.Select_seats {
+  width: 170px;
+  padding: 12px 20px 12px 20px;
+  border-radius: 4px;
+  border: 1px solid #7c8db0;
+  color: #7c8db0;
+  background-color: #cbd4e64d;
+}
+
+/* aside */
+
+.aside {
+  place-items: end;
+  width: 397px;
+  position: absolute;
+  left: 65%;
+  top: 30%;
+}
+
+.booking_Content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  width: 400px;
+  height: 122px;
+  padding: 16px;
+  border-radius: 12px;
+  border: 1px solid #e9e8fc;
+  margin-top: 35px;
+}
+
+.text_Booking {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21.82px;
+  color: #27273f;
+}
+
+.Flight_details {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21.82px;
+  color: #7c8db0;
+}
+
+.price {
+  width: 400px;
+  height: 114px;
+  padding: 16px;
+  gap: 40px;
+  place-items: end;
+  margin-bottom: 15px;
+}
+
+.price_details {
+  display: flex;
+  gap: 30px;
+  margin-bottom: 5px;
+}
+
+.price_text {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 21.82px;
+  color: #27273f;
+}

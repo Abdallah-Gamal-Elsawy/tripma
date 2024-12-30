@@ -1,0 +1,48 @@
+.title_h3 {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32.74px;
+  color: #6e7491;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.title_span {
+  color: #605dec;
+}
+
+.name {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 24.55px;
+  color: #6e7491;
+}
+
+.address {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.55px;
+  color: #6e7491;
+}
+
+.start {
+  width: 24px;
+  height: 24px;
+  padding: 3px 0px 0px 0px;
+  border-radius: 4px 0px 0px 0px;
+}
+
+.content {
+  width: 314.67px;
+  height: 150px;
+}
+.description {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.55px;
+  color: #27273f;
+}
+
+.description_span {
+  color: #6e7491;
+}

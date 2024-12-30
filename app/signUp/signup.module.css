@@ -1,0 +1,95 @@
+.content {
+  width: 600px;
+  height: 750px;
+  top: 100px;
+  left: 436px;
+  padding: 40px;
+  border-radius: 12px;
+  border: 1px 0px 0px 0px;
+  background-color: white;
+}
+.header_title {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32.74px;
+  color: #6e7491;
+  margin-bottom: 10px;
+}
+
+.header_description {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.55px;
+  color: #7c8db0;
+  margin-bottom: 7px;
+}
+
+.input {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.55px;
+  color: #7c8db0;
+  border: 1px solid #a1b0cc;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  padding: 8px 12px 8px 12px;
+}
+
+.checkbox_label {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21.82px;
+  color: #6e7491;
+}
+
+.checkbox_span {
+  color: #605dec;
+}
+
+.container_button {
+  margin-top: 10px;
+  padding: 12px 20px 12px 20px;
+  border-radius: 4px;
+  background-color: #605dec;
+  text-align: center;
+}
+
+.button {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.55px;
+  color: #fafafa;
+}
+
+.divider {
+  width: 280.5px;
+  height: 1px;
+  color: #11306e;
+}
+
+.divider_text {
+  width: 17px;
+  height: 25px;
+  font-size: 18px;
+  font-weight: 400;
+  color: #7c8db0;
+}
+
+.social_button {
+  display: flex;
+  align-items: center;
+  gap: 125px;
+  border: 1px solid #605dec;
+  width: 518px;
+  padding: 12px 20px 12px 20px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+.social_text {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.55px;
+  text-align: center;
+  color: #605dec;
+}

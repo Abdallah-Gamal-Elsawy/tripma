@@ -1,0 +1,31 @@
+.image {
+  width: 100%;
+  position: relative;
+}
+
+.text {
+  position: absolute;
+  text-align: center;
+  top: 40%;
+  left: 22%;
+  background-color: black;
+  background-image: url("../../public/group-8.png");
+  background-size: 707px;
+  height: 462px;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 96px;
+  text-align: center;
+  font-weight: 700;
+  line-height: 90px;
+  width: 800px;
+}
+
+.search_bar {
+  width: 1200px;
+  height: 48px;
+  position: absolute;
+  top: 75%;
+  left: 11%;
+  background-color: #ffffff;
+}

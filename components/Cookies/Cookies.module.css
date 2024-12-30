@@ -1,0 +1,50 @@
+.content {
+  position: fixed;
+  top: 580px;
+  left: 30px;
+  padding: 16px 16px 16px 24px;
+  gap: 12px;
+  border-radius: 8px;
+  border: 1px solid #605dec;
+  background-color: #f6f6fe;
+}
+
+.frame_1 {
+  width: 260px;
+  height: 50px;
+  display: flex;
+  margin-bottom: 15px;
+  align-items: start;
+}
+
+.text {
+  width: 218px;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 24.55px;
+  color: #605dec;
+}
+
+.image {
+  filter: invert(50%) sepia(100%) saturate(200%) hue-rotate(180deg);
+}
+
+.frame_2 {
+  width: 250px;
+  height: 36px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.button {
+  padding: 10px 16px 10px 16px;
+  border-radius: 4px;
+  background-color: #605dec;
+  color: #fafafa;
+}
+
+.text_button {
+  color: #605dec;
+  align-items: center;
+}

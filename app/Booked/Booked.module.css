@@ -1,0 +1,301 @@
+.Allcontent {
+  width: 686px;
+  margin-left: 80px;
+  margin-top: 20px;
+}
+
+.notification_content {
+  width: 704px;
+  height: 64px;
+  padding: 16px 16px 16px 24px;
+  gap: 4px;
+  border-radius: 8px;
+  border: 1px solid #007b65;
+  opacity: 0px;
+  display: flex;
+  background-color: #eafffb;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.notification_text {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21.82px;
+  color: #007b65;
+}
+
+.textName {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32.74px;
+  color: #605dec;
+  margin-bottom: 15px;
+}
+
+.Confirmation_num {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 24.55px;
+  color: #6e7491;
+  margin-bottom: 10px;
+}
+
+.description {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.55px;
+  color: #7c8db0;
+  margin-bottom: 20px;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32.74px;
+  color: #6e7491;
+  margin-bottom: 15px;
+}
+
+.title_span {
+  color: #605dec;
+}
+
+.flightDetails {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 756px;
+  height: 72px;
+  top: 575px;
+  left: 96px;
+  padding: 4px 16px 4px 16px;
+  gap: 8px;
+  border-radius: 4px;
+  border: 1px solid #cbd4e6;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+.test_contentUp {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21.82px;
+  color: #27273f;
+}
+
+.test_content {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21.82px;
+  color: #7c8db0;
+}
+
+.price_details {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.55px;
+  color: #6e7491;
+  margin-bottom: 5px;
+}
+
+.totalPrice {
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid #cbd4e6;
+  border-bottom: 1px solid #cbd4e6;
+  height: 49px;
+  align-items: center;
+  margin-top: 15px;
+}
+
+.totalPriceText {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 24.55px;
+  color: #36374a;
+}
+
+.visa_content {
+  width: 300px;
+  height: 188px;
+  background-color: #eb568c;
+  color: #fff;
+  border-radius: 16px;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.input_field {
+  width: 400px;
+  height: 48px;
+  padding: 8px 12px 8px 12px;
+  gap: 8px;
+  border-radius: 4px;
+  border: 1px solid #a1b0cc;
+  margin-bottom: 20px;
+}
+
+.Button {
+  width: 157px;
+  height: 48px;
+  padding: 12px 20px 12px 20px;
+  border-radius: 4px;
+  background-color: #605dec;
+}
+.textButton {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.55px;
+  color: #fafafa;
+}
+
+.addAnotherButton {
+  width: 144px;
+  height: 48px;
+  padding: 12px 20px 12px 20px;
+  border-radius: 4px;
+}
+
+.textButton2 {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.55px;
+  color: #605dec;
+}
+
+/* aside */
+
+.aside {
+  width: 400px;
+}
+
+/* card */
+.card_section {
+  margin-bottom: 20px;
+}
+
+.header_h3 {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32.74px;
+  color: #6e7491;
+}
+
+.header_span {
+  color: #605dec;
+}
+
+.seeAll {
+  font-family: Nunito Sans;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 32.74px;
+  color: #a1b0cc;
+}
+
+.card_content {
+  width: 350px;
+  height: 360px;
+  margin-top: 40px;
+  border-radius: 12px;
+  box-shadow: 0 12px 12px 4px #1b3b770d;
+}
+
+.image {
+  border-radius: 8px 8px 0px 0px;
+  width: 400px;
+  height: 247px;
+}
+
+.text_content {
+  padding: 16px 24px 16px 24px;
+  margin-top: 10px;
+}
+
+.card_header_h4 {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 24.55px;
+  color: #6e7491;
+}
+
+.card_header_span {
+  color: #605dec;
+}
+
+.card_p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21.82px;
+  color: #7c8db0;
+}
+
+.content_button {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.ShowAllHotelsbutton {
+  width: Hug (168px) px;
+  height: Fixed (48px) px;
+  padding: 12px 20px 12px 20px;
+  border-radius: 4px;
+  border: 1px solid #605dec;
+  color: #605dec;
+}
+
+.map {
+  margin-top: 40px;
+  position: relative;
+  display: flex;
+}
+
+.map_details {
+  display: flex;
+  gap: 200px;
+  position: absolute;
+  top: 60%;
+  left: 33%;
+}
+.map_text {
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 16px;
+  color: #1513a0;
+}
+.map_divider1 {
+  width: 6px;
+  height: 6px;
+  border: 1px solid #1513a0;
+  border-radius: 50%;
+  background-color: white;
+  margin-bottom: 3px;
+}
+
+.map_divider2 {
+  width: 6px;
+  height: 6px;
+  border: 1px solid #1513a0;
+  border-radius: 50%;
+  background-color: white;
+  margin-left: 15px;
+  margin-bottom: 3px;
+}
+
+.flightIconMap {
+  position: absolute;
+  top: 46%;
+  left: 51%;
+}
+.mapdivider3 {
+  position: absolute;
+  top: 51%;
+  left: 34%;
+}
+
+.image {
+  width: 350px;
+  height: 250px;
+  margin-top: -20px;
+}

@@ -1,0 +1,40 @@
+.react-datepicker {
+  border: none !important;
+}
+
+.react-datepicker__header {
+  border: none !important;
+}
+
+.react-datepicker__current-month {
+  text-align: center;
+}
+
+.react-datepicker__header {
+  background: transparent !important;
+}
+
+.react-datepicker__day--in-range {
+  background-color: transparent !important;
+  color: #000 !important;
+}
+
+.react-datepicker__day--range-start {
+  background-color: #605dec !important;
+  color: white !important;
+  border-radius: 100% !important;
+  font-weight: bold !important;
+}
+.react-datepicker__day--selected {
+  background-color: #605dec !important;
+  color: white !important;
+  border-radius: 100% !important;
+  font-weight: bold !important;
+}
+
+.react-datepicker__day--range-end {
+  background-color: #605dec !important;
+  color: white !important;
+  border-radius: 100% !important;
+  font-weight: bold !important;
+}

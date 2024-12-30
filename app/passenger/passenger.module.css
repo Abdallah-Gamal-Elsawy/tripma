@@ -1,0 +1,195 @@
+.passengerInfo_content {
+  width: 682px;
+  margin-left: 80px;
+  margin-top: 20px;
+}
+
+.text_header {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32.74px;
+  color: #605dec;
+  margin-bottom: 10px;
+}
+
+.description {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.55px;
+  color: #7c8db0;
+  margin-bottom: 20px;
+}
+
+.description_span {
+  color: #605dec;
+}
+
+.passenger_text {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 24.55px;
+  color: #6e7491;
+  margin-bottom: 10px;
+}
+
+.input_field {
+  width: 200px;
+  height: 48px;
+  padding: 8px 12px 8px 12px;
+  gap: 8px;
+  border-radius: 4px;
+  border: 1px solid #a1b0cc;
+}
+
+.input_field_date {
+  width: 252px;
+  height: 48px;
+  padding: 8px 12px 8px 12px;
+  gap: 8px;
+  border-radius: 4px;
+  border: 1px solid #a1b0cc;
+}
+
+.text_date {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16.37px;
+  color: #7c8db0;
+}
+
+.input_fields_email_phone {
+  width: 300px;
+  height: 48px;
+  padding: 8px 12px 8px 12px;
+  gap: 8px;
+  border-radius: 4px;
+  border: 1px solid #a1b0cc;
+}
+
+.emergency_text {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 24.55px;
+  color: #6e7491;
+  margin-bottom: 20px;
+}
+
+.checkBox_text {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21.82px;
+  color: #6e7491;
+}
+
+.bag_text {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 24.55px;
+  color: #6e7491;
+  margin-bottom: 10px;
+}
+
+.passengerNum {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 24.55px;
+  color: #7c8db0;
+  margin-bottom: 10px;
+}
+
+.Save_Close {
+  width: 161px;
+  padding: 12px 20px 12px 20px;
+  border-radius: 4px;
+  border: 1px solid #605dec;
+  color: #605dec;
+}
+
+.Select_seats {
+  width: 138px;
+  padding: 12px 20px 12px 20px;
+  border-radius: 4px;
+  border: 1px solid #7c8db0;
+  color: #7c8db0;
+  background-color: #cbd4e64d;
+}
+
+.Select_seats2 {
+  position: absolute;
+  top: 72%;
+  margin-left: 700px;
+}
+
+.bagNum {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.55px;
+  color: #6e7491;
+}
+
+/* aside */
+
+.aside {
+  place-items: end;
+  width: 397px;
+  position: absolute;
+  left: 65%;
+  top: 30%;
+}
+
+.booking_Content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  width: 400px;
+  height: 122px;
+  padding: 16px;
+  border-radius: 12px;
+  border: 1px solid #e9e8fc;
+  margin-top: 35px;
+}
+
+.text_Booking {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21.82px;
+  color: #27273f;
+}
+
+.Flight_details {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21.82px;
+  color: #7c8db0;
+}
+
+.price {
+  width: 400px;
+  height: 114px;
+  padding: 16px;
+  gap: 40px;
+  place-items: end;
+  margin-bottom: 15px;
+}
+
+.price_details {
+  display: flex;
+  gap: 30px;
+  margin-bottom: 5px;
+}
+
+.price_text {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 21.82px;
+  color: #27273f;
+}
+
+.divider {
+  width: 630px;
+  height: 1px;
+  background-color: #a1b0cc;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}

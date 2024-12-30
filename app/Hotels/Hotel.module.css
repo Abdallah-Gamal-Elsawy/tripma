@@ -1,0 +1,44 @@
+.header_h3 {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32.74px;
+  color: #6e7491;
+  padding: 28px 0px 0px 28px;
+}
+
+.header_span {
+  color: #5cd6c0;
+}
+
+.card_content {
+  width: 410.67px;
+  margin-top: 25px;
+  border-radius: 12px;
+  box-shadow: 0 12px 12px 4px #1b3b770d;
+}
+
+.image {
+  border: 2px #a1b0cc;
+}
+
+.text_content {
+  padding: 16px 24px 16px 24px;
+}
+
+.card_header_h4 {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 24.55px;
+  color: #6e7491;
+}
+
+.card_header_span {
+  color: #5cd6c0;
+}
+
+.card_p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21.82px;
+  color: #7c8db0;
+}
